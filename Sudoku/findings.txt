@@ -1,0 +1,15 @@
+mystery1.dat — Extremely hard
+
+The solver successfully found a solution after 3793687 attempts. The large number of attempts indicates that the solver had to explore many possibilities before finding a valid solution.
+
+mystery2.dat — Impossible to solve
+
+The solver made 103797 attempts but could not find a solution. Therefore, this puzzle is classified as impossible to solve.
+
+mystery3.dat — Hard
+
+The solver successfully found a solution after 126954 attempts. Compared with mystery1.dat, this puzzle required significantly fewer attempts, indicating that it was easier for the solver to solve.
+
+Conclusion:
+
+Based on the number of attempts required by the recursive backtracking solver, mystery3.dat is classified as hard, mystery1.dat as extremely hard, and mystery2.dat as impossible to solve.
